@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="a">What color is this dress?</string>
+    <string name="true_text">Gold and White</string>
+    <string name="false_text">Blue and Black</string>
+    <string name="prev_text">prev</string>
+    <string name="next_text">next</string>
+</resources>
