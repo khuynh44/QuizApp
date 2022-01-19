@@ -13,9 +13,10 @@
     <!--ImageView used for showing pictures along with questions-->
     <ImageView
         android:id="@+id/myimage"
-        android:layout_width="wrap_content"
-        android:src="@drawable/f1"
-        android:layout_height="wrap_content"/>
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/f1" />
 
     <!--TextView used for showing questions on screen-->
     <TextView
@@ -38,26 +39,29 @@
             android:id="@+id/true_button"
             android:layout_marginRight="20dp"
             android:backgroundTint="#DFD2D1"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="150dp"
+            android:layout_height="75dp"
             android:textSize="20sp"
-            android:text="@string/true_text" />
+            android:text="@string/true_text"
+            android:textColor="@android:color/black" />
 
         <!--FalseButton-->
         <Button
             android:id="@+id/false_button"
             android:layout_marginLeft="20dp"
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:backgroundTint="#DFD2D1"
-            android:layout_height="wrap_content"
+            android:layout_height="75dp"
             android:textSize="20sp"
-            android:text="@string/false_text" />
+            android:text="@string/false_text"
+            android:textColor="@android:color/black" />
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:padding="20dp">
 
         <!--PreviousButton-->
         <ImageButton
