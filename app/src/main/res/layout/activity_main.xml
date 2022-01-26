@@ -36,25 +36,27 @@
 
         <!--TrueButton-->
         <Button
-            android:id="@+id/true_button"
+            android:id="@+id/wng"
             android:layout_marginRight="20dp"
             android:backgroundTint="#DFD2D1"
             android:layout_width="150dp"
             android:layout_height="75dp"
             android:textSize="20sp"
             android:text="@string/true_text"
+            android:onClick="test"
             android:textColor="@android:color/black" />
 
         <!--FalseButton-->
         <Button
-            android:id="@+id/false_button"
+            android:id="@+id/bnb"
             android:layout_marginLeft="20dp"
             android:layout_width="150dp"
             android:backgroundTint="#DFD2D1"
             android:layout_height="75dp"
             android:textSize="20sp"
             android:text="@string/false_text"
-            android:textColor="@android:color/black" />
+            android:textColor="@android:color/black"
+            android:onClick="test"/>
 
     </LinearLayout>
 
