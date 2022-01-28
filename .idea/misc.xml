@@ -6,11 +6,14 @@
         <entry key="..\:/Users/Kevin/Documents/GitHub/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
         <entry key="..\:/Users/Kevin/Documents/GitHub/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/Kevin/Documents/GitHub/QuizApp/app/src/main/res/layout/activity_results.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Melanie Su/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_firebase_ui.xml" value="0.184375" />
+        <entry key="..\:/Users/Melanie Su/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_login.xml" value="0.14666666666666667" />
         <entry key="..\:/Users/Melanie Su/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Melanie Su/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_registration.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
